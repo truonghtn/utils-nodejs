@@ -1,0 +1,25 @@
+{
+    "name": "utils-nodejs",
+    "version": "1.0.0",
+    "description": "Typescript Utils",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "utils"
+    ],
+    "author": "truongpn77@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "ajv": "^6.2.1",
+        "bluebird": "^3.5.1",
+        "body-parser": "^1.18.2",
+        "express": "^4.16.3",
+        "lodash": "^4.17.5",
+        "moment": "^2.21.0",
+        "randomstring": "^1.1.5",
+        "sha1": "^1.1.1",
+        "sprintf-js": "^1.1.1"
+    }
+}
