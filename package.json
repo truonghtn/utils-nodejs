@@ -1,6 +1,6 @@
 {
     "name": "utils-nodejs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Typescript Utils",
     "main": "index.js",
     "scripts": {
@@ -9,6 +9,10 @@
     "keywords": [
         "utils"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/truonghtn/utils-nodejs.git"
+    },
     "author": "truongpn77@gmail.com",
     "license": "ISC",
     "dependencies": {
